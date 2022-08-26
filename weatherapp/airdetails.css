@@ -1,0 +1,24 @@
+body{
+	    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("back.jpg");
+	        background-position: center;
+	        background-size: cover;
+	        min-height: 97vh;
+	        position: relative;
+	        background-repeat: no-repeat;
+}
+.container{
+position: absolute;
+right: 30em;
+top: 50%;
+color: white;
+border: 1px solid white;
+padding: 30px;
+border-radius: 44px;
+
+}
+h1{
+	position: ;
+}
+ul p{
+
+}
